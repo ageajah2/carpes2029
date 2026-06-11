@@ -22,6 +22,7 @@ const candidatesData = {
             { year: "2013", desc: "Ikut serta dalam Konvensi Calon Presiden Partai Demokrat." },
             { year: "2014", desc: "Menjabat Menteri Pendidikan dan Kebudayaan RI di Kabinet Kerja." },
             { year: "2017", desc: "Terpilih sebagai Gubernur DKI Jakarta ke-17 setelah pilkada yang dinamis." },
+            { year: "2022", desc: "Dipanggil KPK 19 kali. Tetap tidak bersalah." },
             { year: "2024", desc: "Maju sebagai Calon Presiden RI Nomor Urut 1 dengan gagasan perubahan." },
             { year: "2029", desc: "Mengusung narasi oposisi intelektual bermutu tinggi untuk Pilpres 2029." }
         ],
@@ -57,7 +58,7 @@ const candidatesData = {
             "Tuanku ya Rakyat, jabatan cuma mandat! Kita harus selalu siap turun ke lapangan.",
             "Tabrak terus segala bentuk penyimpangan, tidak ada gigi mundur dalam kamus kita!",
             "Menjaga stamina itu penting, baik dalam lari maraton pagi hari maupun maraton politik nasional.",
-            "Kita tidak boleh berdiam diri di kantor, mari dengarkan keluh kesah langsung di bawah terik matahari."
+            "Wong saya suka kok."
         ]
     },
     gibran: {
@@ -70,13 +71,13 @@ const candidatesData = {
             "Kebijakan": 78,
             "Populisme": 88,
             "Gimik": 98,
-            "Eksekusi": 80
+            "Eksekusi": 70
         },
         timeline: [
             { year: "2010", desc: "Merintis usaha kuliner Chilli Pari dan martabak Markobar di Surakarta." },
             { year: "2020", desc: "Terpilih sebagai Wali Kota Surakarta (Solo) dengan persentase suara mutlak." },
             { year: "2024", desc: "Terpilih sebagai Wakil Presiden RI termuda sepanjang sejarah mendampingi Prabowo Subianto." },
-            { year: "2026", desc: "Menghadapi tantangan jejak digital kontroversial akun kaskus 'fufufafa'." },
+            { year: "2026", desc: "Dihadapi tantangan jejak digital kontroversial akun kaskus 'fufufafa'." },
             { year: "2029", desc: "Mencalonkan diri sebagai Presiden 2029 dengan fokus hilirisasi AI dan susu gratis." }
         ],
         jargon: [
