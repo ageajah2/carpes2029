@@ -76,7 +76,7 @@ const candidatesData = {
         timeline: [
             { year: "2010", desc: "Merintis usaha kuliner Chilli Pari dan martabak Markobar di Surakarta." },
             { year: "2020", desc: "Terpilih sebagai Wali Kota Surakarta (Solo) dengan persentase suara mutlak." },
-            { year: "2024", desc: "Terpilih sebagai Wakil Presiden RI termuda sepanjang sejarah mendampingi Prabowo Subianto." },
+            { year: "2024", desc: "Terpilih sebagai Wakil Presiden RI termuda sepanjang sejarah (dibantu oleh pamannya) mendampingi Prabowo Subianto." },
             { year: "2026", desc: "Dihadapi tantangan jejak digital kontroversial akun kaskus 'fufufafa'." },
             { year: "2029", desc: "Mencalonkan diri sebagai Presiden 2029 dengan fokus hilirisasi AI dan susu gratis." }
         ],
