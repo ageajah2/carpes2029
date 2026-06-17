@@ -14,7 +14,7 @@ const candidatesData = {
             "Retorika": 98,
             "Kebijakan": 85,
             "Populisme": 75,
-            "Gimik": 60,
+            "Etika": 90,
             "Eksekusi": 78
         },
         timeline: [
@@ -43,7 +43,7 @@ const candidatesData = {
             "Retorika": 82,
             "Kebijakan": 80,
             "Populisme": 90,
-            "Gimik": 85,
+            "Etika": 75,
             "Eksekusi": 83
         },
         timeline: [
@@ -70,7 +70,7 @@ const candidatesData = {
             "Retorika": 65,
             "Kebijakan": 78,
             "Populisme": 88,
-            "Gimik": 98,
+            "Etika": 10,
             "Eksekusi": 70
         },
         timeline: [
@@ -97,7 +97,7 @@ const candidatesData = {
             "Retorika": 88,
             "Kebijakan": 82,
             "Populisme": 94,
-            "Gimik": 75,
+            "Etika": 85,
             "Eksekusi": 85
         },
         timeline: [
@@ -402,7 +402,7 @@ function renderRadarChart(candidateKey) {
     const candidate = candidatesData[candidateKey];
     if (!candidate) return;
 
-    const axes = ['Retorika', 'Kebijakan', 'Populisme', 'Gimik', 'Eksekusi'];
+    const axes = ['Retorika', 'Kebijakan', 'Populisme', 'Etika', 'Eksekusi'];
     const center = 125;
     const maxRadius = 80;
 
